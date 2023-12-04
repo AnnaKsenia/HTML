@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(249, 213, 79);
+    color:rgb(124, 106, 83);
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+h2{
+    color:rgb(255, 255, 255);
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    background-color: rgb(249, 213, 79);
+    color: rgb(41, 46, 51);
+    text-align: center;
+    font-size: 60px;
+    padding-right: 10%;
+    padding-top: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+    text-align: justify
+}
+
+table1{
+    text-align: left;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+table2{
+    text-align: right;
+    background-color: black;
+}
+
+p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
