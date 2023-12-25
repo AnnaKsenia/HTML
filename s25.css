@@ -1,44 +1,62 @@
 body{
-    background-color: rgb(131, 204, 131);
-    color:rgb(124, 106, 83);
-    margin: auto;
+    background-color: rgb(164, 213, 205);
+    color:rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
-
-h2{
-    color:rgb(255, 255, 255);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
 h1{
-    background-color: rgb(240, 211, 108);
     color: rgb(255, 255, 255);
-    text-align: center;
-    font-size: 60px;
-    padding-right: 10%;
-    padding-top: 40px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+    font-size: 70px;
+    font-family:Bookman, URW Bookman L, serif;
+    padding-left: 8%;
+    padding-top: 12%;
+    padding-bottom: 22%;
 }
-
-h3 {
-    color:rgb(255, 255, 255);
-    background-color: black;
-}
-
-p{
-    text-align: justify
+nav {
+    background-color: rgb(255, 255, 255);
 }
 
 table{
-    text-align: left;
-    color: rgb(255, 255, 255);
-    background-color: rgb(243, 243, 243);
+    table-layout: fixed;
+    color: rgb(70, 70, 70);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    border: 1px;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    padding-top: 5%;
 }
 
-p1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+p {
+    font-family: Bookman, URW Bookman L, serif;
     text-align: center;
+    font-size: 140%;
+}
+
+a {
+    color: rgb(70, 70, 70);
+}
+
+div {
+    background-color: rgb(70, 70, 70);
+    text-align: justify;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10%;
+}
+p1 {
+    text-align: right;
+}
+
+* {
+    margin: 0;
+}
+
+p3 {
+    padding: 0;
 }
